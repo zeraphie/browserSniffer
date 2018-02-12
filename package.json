@@ -2,7 +2,7 @@
   "name": "z-browser-sniffer",
   "version": "1.0.0",
   "description": "A small helper class for getting information about a browser from the userAgent",
-  "main": "src/PasswordGen.js",
+  "main": "src/BrowserSniffer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
