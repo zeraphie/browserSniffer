@@ -1,6 +1,6 @@
 {
   "name": "z-browser-sniffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small helper class for getting information about a browser from the userAgent",
   "main": "src/BrowserSniffer.js",
   "scripts": {
